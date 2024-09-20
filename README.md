@@ -79,8 +79,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 **Nagendra Kumar K S**
 
-- GitHub: [@your-github-username][(https://github.com/Nagendra2k00)]
-- LinkedIn: [@your-linkedin](https://linkedin.com/in/nagendrakumarks)
+- GitHub: [(https://github.com/Nagendra2k00)]
+- LinkedIn: (https://linkedin.com/in/nagendrakumarks)
 
 ## 🙏 Acknowledgements
 
