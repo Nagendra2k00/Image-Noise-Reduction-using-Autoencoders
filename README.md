@@ -73,16 +73,14 @@ The project demonstrates improved classification accuracy on noisy MNIST images 
 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your-username/mnist-denoising-classification/issues) if you want to contribute.
 
-## 📝 License
 
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## 👤 Author
 
-**Your Name**
+**Nagendra Kumar K S**
 
-- GitHub: [@your-github-username](https://github.com/your-github-username)
-- LinkedIn: [@your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@your-github-username][(https://github.com/Nagendra2k00)]
+- LinkedIn: [@your-linkedin](https://linkedin.com/in/nagendrakumarks)
 
 ## 🙏 Acknowledgements
 
