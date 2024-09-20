@@ -31,7 +31,7 @@ This project demonstrates the use of autoencoders for image denoising and classi
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/mnist-denoising-classification.git
+   git clone [https://github.com/Nagendra2k00/Image-Noise-Reduction-using-Autoencoders.git]
    cd mnist-denoising-classification
    ```
 
@@ -65,18 +65,21 @@ This project demonstrates the use of autoencoders for image denoising and classi
 
 ## 🖼️ Screenshots
 
-[In this section, you should add 2-3 screenshots of your application in action. Here's how you can add them:]
-
 ### Main Application Interface
-![Main Application Interface](path/to/main_interface_screenshot.png)
+![image](https://github.com/user-attachments/assets/c129c6af-623d-40fe-933e-2b21031bcab6)
+
+### Noise Types
+![image](https://github.com/user-attachments/assets/6bfcacd6-844b-40d1-8d2f-83ab30982339)
 
 ### Classification Results
-![Classification Results](path/to/classification_results_screenshot.png)
+![image](https://github.com/user-attachments/assets/845706d1-ba11-4b0e-bb53-f57eb973b564)
+
+![image](https://github.com/user-attachments/assets/6d6c6b78-6e52-42a3-a47b-388d2015e631)
 
 ### Probability Distribution Graph
-![Probability Distribution](path/to/probability_graph_screenshot.png)
+![plot](https://github.com/user-attachments/assets/80be9852-ec3a-4df7-a1b2-fd0c8c5dcf20)
 
-[Make sure to take these screenshots once your application is running, and replace the paths with the actual paths to your screenshot images.]
+
 
 ## 🧠 Model Architecture
 
@@ -90,11 +93,8 @@ The project demonstrates improved classification accuracy on noisy MNIST images 
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your-username/mnist-denoising-classification/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome! if you want to contribute.
 
-## 📝 License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## 👤 Author
 
