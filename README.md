@@ -25,9 +25,6 @@ This project demonstrates the use of autoencoders for image denoising and classi
 
 - `ImageNoiseReductionAutoencoders.ipynb`: Jupyter notebook containing the model training code
 - `app.py`: Streamlit application for interactive visualization
-- `autoencoder_model.h5`: Trained autoencoder model
-- `classifier_model.h5`: Trained classifier model
-- `denoise_and_classify.h5`: Combined model for denoising and classification
 - `requirements.txt`: List of Python dependencies
 
 ## 🚀 Getting Started
@@ -43,12 +40,19 @@ This project demonstrates the use of autoencoders for image denoising and classi
    pip install -r requirements.txt
    ```
 
-3. Run the Streamlit app:
+3. Run the Jupyter notebook:
+   - Open `ImageNoiseReductionAutoencoders.ipynb` in Jupyter Lab or Jupyter Notebook.
+   - Run all cells in the notebook. This will train the models and save them as `.h5` files:
+     - `autoencoder_model.h5`
+     - `classifier_model.h5`
+     - `denoise_and_classify.h5`
+
+4. Run the Streamlit app:
    ```
    streamlit run app.py
    ```
 
-4. Open your web browser and navigate to the URL provided by Streamlit (usually `http://localhost:8501`).
+5. Open your web browser and navigate to the URL provided by Streamlit (usually `http://localhost:8501`).
 
 ## 📘 How to Use the App
 
@@ -58,6 +62,21 @@ This project demonstrates the use of autoencoders for image denoising and classi
 4. Compare the classification results for the noisy and denoised images.
 5. Explore the classification probabilities graph for more detailed insights.
 6. Download the prediction results as a CSV file if desired.
+
+## 🖼️ Screenshots
+
+[In this section, you should add 2-3 screenshots of your application in action. Here's how you can add them:]
+
+### Main Application Interface
+![Main Application Interface](path/to/main_interface_screenshot.png)
+
+### Classification Results
+![Classification Results](path/to/classification_results_screenshot.png)
+
+### Probability Distribution Graph
+![Probability Distribution](path/to/probability_graph_screenshot.png)
+
+[Make sure to take these screenshots once your application is running, and replace the paths with the actual paths to your screenshot images.]
 
 ## 🧠 Model Architecture
 
@@ -73,14 +92,16 @@ The project demonstrates improved classification accuracy on noisy MNIST images 
 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your-username/mnist-denoising-classification/issues) if you want to contribute.
 
+## 📝 License
 
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## 👤 Author
 
 **Nagendra Kumar K S**
 
-- GitHub: [(https://github.com/Nagendra2k00)]
-- LinkedIn: (https://linkedin.com/in/nagendrakumarks)
+- GitHub: [@Nagendra Kumar K S](https://github.com/Nagendra2k00)
+- LinkedIn: [@Nagendra Kumar K S](https://linkedin.com/in/nagendrakumarks)
 
 ## 🙏 Acknowledgements
 
